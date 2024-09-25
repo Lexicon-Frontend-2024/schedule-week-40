@@ -1,4 +1,4 @@
-# Schema, vecka 35
+# Schema, vecka 40
 
 ###### Individuellt projekt
 
@@ -31,3 +31,5 @@
 * [React Hooks](https://docs.google.com/presentation/d/1M8o2BiXhyzWdk1LXbb8oy1U1T8ehCvlX1abRI1B8mvc/edit?usp=sharing)
 
 ## Lektionsrepon:
+* **Måndag:** FM: Introduktion till Figma. EM: Individuellt projektarbete (Maja)
+* **Tisdag:** FM: Forts. Figma. EM: Individuellt projektarbete (Maja)
