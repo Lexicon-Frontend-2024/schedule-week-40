@@ -12,7 +12,7 @@
 [Samlat innehåll för hela kursen](https://github.com/Lexicon-Frontend-2024/e-learning-material)
 
 ## Uppgifter:
-[Individuellt projektarbete]()
+[Individuellt projektarbete](https://github.com/Lexicon-Frontend-2024/Individuellt-projekt-examinerande)
 
 ## Lektionsrepon:
 * **Måndag:** FM: Redovisningar. EM: Redovisningar, forts. (Heldag: Maja & Patrik)
