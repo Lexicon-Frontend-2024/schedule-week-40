@@ -18,5 +18,5 @@
 * **Måndag:** FM: Redovisningar. EM: Redovisningar, forts. (Heldag: Maja & Patrik)
 * **Tisdag:** FM: Intro till Figma. EM: Individuellt projektarbete med handledning. (Heldag: Maja och TBA)
 * **Onsdag:** FM: Uppstart och sedan individuellt projektarbete med handledning. EM: Forts. Figma. (FM: Annika, EM: Maja)
-* **Torsdag:** FM: Uppstart och sedan individuellt projektarbete. EM: Individuellt projektarbete med handledning. (FM: Annika, EM: Maja)
-* **Fredag:** FM: Code review på era Figma-skisser och eventuella starter på kod. EM: Individuellt projektarbete med handledning. (Heldag: Niklas och Annika)
+* **Torsdag:** FM: Uppstart med Eva Foresti som pratar lite scrum och anställningsbarhet. EM: Individuellt projektarbete med handledning. (FM: Annika och Eva, EM: Maja)
+* **Fredag:** FM: Code review på era Figma-skisser och eventuella starter på kod. EM: Individuellt projektarbete med handledning. (Heldag: Niklas, Linnea och Annika)
